@@ -1,4 +1,4 @@
-import { GU, textStyle } from "@lisprocoin-labs/rosette-ui/";
+import { GU, textStyle } from "@blossom-labs/rosette-ui/";
 import styled from "styled-components";
 
 import { LoadingRing } from "../LoadingRing";
