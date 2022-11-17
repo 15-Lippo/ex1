@@ -8,7 +8,7 @@ import {
   RADIUS,
   textStyle,
   useTheme,
-} from "@lisprocoin-labs/rosette-ui";
+} from "@blossom-labs/rosette-ui";
 import { useCallback, useEffect } from "react";
 import styled from "styled-components";
 import { useAccount, useNetwork } from "wagmi";
